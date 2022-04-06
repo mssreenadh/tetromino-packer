@@ -7,3 +7,4 @@ Here is a description of the game: https://cse-robotics.engr.tamu.edu/dshell/cs6
 
 $ ./generate_puzzles.py 8 5 | ./tetromino.py
 
+PyCharm editor preferred.
